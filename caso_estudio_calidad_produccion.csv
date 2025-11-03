@@ -1,0 +1,7 @@
+id,presion_bar,temperatura_c,enfriamiento_s,lote_defectuoso
+1,55.3,240.0,35.0,No
+2,52.1,,36.0,No
+3,,250.0,34.0,Sí
+4,120.0,245.0,33.0,No
+5,53.5,241.0,,Sí
+6,54.8,239.0,36.0,No
